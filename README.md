@@ -67,7 +67,20 @@ This notebook demonstrates reinforcement learning techniques to solve decision-m
 
 ## ⚙️ Requirements
 
-Ensure you have the following packages installed:
+To get started with the project, follow these steps:
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn opencv-python gym
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/YourUsername/YourRepository.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd YourRepository
+
+3. **Install dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+   
